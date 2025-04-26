@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    font-family: "PT Sans", sans-serif;
+    background-color: beige;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.foto{
+    height: 550px;
+    width: 550px;
+}
+
+.título {
+    border: 2px solid #000000;
+    border-radius: 50px;
+    width: fit-content;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 60px;
+}
+.texto{
+    margin-top: 200px;
+}
+p{  
+    font-size: 20px;
+}
